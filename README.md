@@ -1,6 +1,6 @@
-# LIC Lead Intelligence — Android MVP
+# Lead Intelligence — Android MVP
 
-A synthetic-data Android prototype for an LIC-oriented lead intelligence application.
+A synthetic-data Android prototype for an oriented lead intelligence application.
 
 ## Included
 - Kotlin + Jetpack Compose
